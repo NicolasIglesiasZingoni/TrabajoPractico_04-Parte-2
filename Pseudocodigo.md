@@ -2,7 +2,7 @@
 
 INICIO
 
-MIENTRAS continuar = true
+    MIENTRAS continuar = true
 
     ESCRIBO Seleccione una opcion
 
